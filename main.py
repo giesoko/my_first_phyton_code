@@ -1,16 +1,13 @@
-# This is a sample Python script.
+"""
+All basic syntax in a programming language consists of:
+1. sequential,
+2. branch,
+3. repetition
+"""
+# sequential
+print('mom said "go to the shop"')
+print('Budi answered "Okay, what should I buy?"')
+print('mom said "Buy a bottle of milk. If they had eggs, buy 6"')
+print('So Budi went to the shop')
+print('and he started shopping')
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
